@@ -67,7 +67,7 @@ Develop reusable, secure, enterprise-ready generative AI applications using Amaz
 | 🧠 **Lesson 1** | Intro to Amazon Q Apps | 🔗 [Go to Lesson 1](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14264&lessonKey=bfc4bc38-dce6-4489-9a5d-f2c21e6a6eda&conceptKey=273e9de6-5619-426c-9071-f4fbca6245a5) |
 | ♻️ **Lesson 2** | Reusable AI App Development | 🔗 [Go to Lesson 2](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14264&lessonKey=5ebd1834-11d4-4cbf-8c26-831c4396aca6&conceptKey=65940c48-567c-4cdf-8a5e-5dd9028221ec) |
 | 🤝 **Lesson 3** | Sharing + Integration | 🔗 [Go to Lesson 3](https://learn.udacity.com/nd2726?version=1.2.2&partKey=cd14264&lessonKey=426169c9-02ca-44f8-88d0-fca45ff7dbad&conceptKey=ceca96a4-acfc-42e3-9fe8-548c7d1fba49) |
-| 💡 **Project** | AI Career Coach App | 🔗 [View Project](#q-project) |
+| 💡 **Project** | AI Career Coach App | 🔗 [View Project](https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/046b99a68eedcf0d7fc4044f5eaaeb55fa169a31/project%20-2%20AI%20Career%20Coach%20Assistant) |
 
 ---
 
@@ -99,5 +99,6 @@ Develop reusable, secure, enterprise-ready generative AI applications using Amaz
 > Create a no-code AI app that supports career coaches with personalized training recommendations and intelligent insights using Amazon Q.
 
 **Repository Path:**  
-`Future-AWS-Business-Intelligence-Engineer/project-2`
+[Future-AWS-Business-Intelligence-Engineer/project-2] (https://github.com/Hanan-pixel/Future-AWS-Business-Intelligence-/tree/046b99a68eedcf0d7fc4044f5eaaeb55fa169a31/project%20-2%20AI%20Career%20Coach%20Assistant)
+
 
